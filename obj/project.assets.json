@@ -12543,9 +12543,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnk\\OneDrive\\Documents\\GitHub\\minishiftdemo\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\johnk\\OneDrive\\Documents\\GitHub\\minishiftdemo\\app.csproj",
+      "projectUniqueName": "C:\\Users\\johnk\\OneDrive\\Documents\\GitHub\\minishiftdemo\\example.csproj",
+      "projectName": "example",
+      "projectPath": "C:\\Users\\johnk\\OneDrive\\Documents\\GitHub\\minishiftdemo\\example.csproj",
       "packagesPath": "C:\\Users\\johnk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\johnk\\OneDrive\\Documents\\GitHub\\minishiftdemo\\obj\\",
       "projectStyle": "PackageReference",
