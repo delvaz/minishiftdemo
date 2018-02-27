@@ -1,0 +1,11 @@
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\bin\Debug\netcoreapp2.0\app.deps.json
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.json
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.dev.json
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\bin\Debug\netcoreapp2.0\app.dll
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\bin\Debug\netcoreapp2.0\app.pdb
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\obj\Debug\netcoreapp2.0\app.csprojResolveAssemblyReference.cache
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\obj\Debug\netcoreapp2.0\app.csproj.CoreCompileInputs.cache
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\obj\Debug\netcoreapp2.0\app.AssemblyInfoInputs.cache
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\obj\Debug\netcoreapp2.0\app.AssemblyInfo.cs
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\obj\Debug\netcoreapp2.0\app.dll
+C:\Projects\minishiftdemo\s2i-dotnetcore-ex\app\obj\Debug\netcoreapp2.0\app.pdb
