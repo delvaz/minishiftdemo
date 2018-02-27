@@ -20,3 +20,14 @@ C:\Users\johnk\OneDrive\Documents\GitHub\minishiftdemo\obj\Debug\netcoreapp2.0\e
 C:\Users\johnk\OneDrive\Documents\GitHub\minishiftdemo\obj\Debug\netcoreapp2.0\example.AssemblyInfo.cs
 C:\Users\johnk\OneDrive\Documents\GitHub\minishiftdemo\obj\Debug\netcoreapp2.0\example.dll
 C:\Users\johnk\OneDrive\Documents\GitHub\minishiftdemo\obj\Debug\netcoreapp2.0\example.pdb
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\bin\Debug\netcoreapp2.0\example.deps.json
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\bin\Debug\netcoreapp2.0\example.runtimeconfig.json
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\bin\Debug\netcoreapp2.0\example.runtimeconfig.dev.json
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\bin\Debug\netcoreapp2.0\example.dll
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\bin\Debug\netcoreapp2.0\example.pdb
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\obj\Debug\netcoreapp2.0\example.csprojResolveAssemblyReference.cache
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\obj\Debug\netcoreapp2.0\example.csproj.CoreCompileInputs.cache
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\obj\Debug\netcoreapp2.0\example.AssemblyInfoInputs.cache
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\obj\Debug\netcoreapp2.0\example.AssemblyInfo.cs
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\obj\Debug\netcoreapp2.0\example.dll
+C:\Users\kirkpatrickj\source\repos\minishiftdemo\minishiftdemo\obj\Debug\netcoreapp2.0\example.pdb
